@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*Programa funcional com as funcionalidades reuquisitadas, ainda falta a adição de comentários para o melhor entendimento de terceiros.*/
 int main()
 {
 
