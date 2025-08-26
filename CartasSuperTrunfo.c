@@ -24,7 +24,7 @@ int main()
     printf("Digite o a letra da carta que indicará o Estado, escolha uma letra de A a H: ");
     scanf(" %c", &estado1);
 
-    printf("Certo! Agora digite o número da carta que indicará a cidade: ");
+    printf("Certo! Agora digite o nome da cidade, siga a mesma regra do _ ");
     scanf("%d", &carta1);
 
     printf("Certo! Agora digite o nome da cidade: ");
